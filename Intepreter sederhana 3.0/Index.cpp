@@ -78,5 +78,5 @@ awal:
 		goto awal;				//kembali ke awal dan menginputkan string lagi.
 	}  		
 }
-
+ 
  
