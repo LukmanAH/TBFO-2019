@@ -1,3 +1,3 @@
 # TBFO
 
-Membuat Intepreter sederhana dengan menerapkan konsep yang sudah dipelajari pada kelas Teori Bahasa Formal Dan Automata
+Membuat Intepreter sederhana dengan menerapkan konsep Teori Bahasa Formal Dan Automata dengan bahasa C++
